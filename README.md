@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Amine Saadallah</h1>
 <h3 align="center">Futur software engineer| Computer science engineering student at ESPRIT</h3>
-<img align="right" alt="Coding Boy" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align="right" alt="Coding Boy" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=chaimjed&label=Profile%20views&color=0e75b6&style=flat" alt="chaimjed" />
 </p>
