@@ -1,9 +1,12 @@
 ## 💫Hi, I'm Amine! 👋
 
 <h1 align="center">Hi 👋, I'm Amine Saadallah</h1>
-<h3 align="center">Future software engineer| Computer science engineering student at ESPRIT</h3>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaimjed&label=Profile%20views&color=0e75b6&style=flat" alt="chaimjed" /> </p>
+<h3 align="center">Futur software engineer| Computer science engineering student at ESPRIT</h3>
+<img align="right" alt="Coding Boy" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=chaimjed&label=Profile%20views&color=0e75b6&style=flat" alt="chaimjed" />
+</p>
+
 
 
 - 💬 Ask me about *FullStack Web Applications, Mobile Applications*
