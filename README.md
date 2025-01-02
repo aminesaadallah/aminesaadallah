@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Amine Saadallah</h1>
 <h3 align="center">Futur software engineer| Computer science engineering student at ESPRIT</h3>
-<img align="right" alt="Coding Boy" width="400" src="[![](https://visitcount.itsvg.in/api?id=aminesaadallah&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)">
-    <img src="https://komarev.com/ghpvc/?username=chaimjed&label=Profile%20views&color=0e75b6&style=flat" alt="chaimjed" />
 </p>
 
 
