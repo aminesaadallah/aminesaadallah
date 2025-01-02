@@ -64,7 +64,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminesaadallah&show_icons=true&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aminesaadallah&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aminesaadallah&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
 ## 👨‍💻 Projects
 
 Here are some of the projects I’ve been working on:
