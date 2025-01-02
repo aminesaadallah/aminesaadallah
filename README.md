@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Amine Saadallah</h1>
 <h3 align="center">Futur software engineer| Computer science engineering student at ESPRIT</h3>
 </p>
-
-
-
+<img 
+  src="https://cdn.dribbble.com/users/1787323/screenshots/5604820/media/2e05149f4a63bfa6c3787a3f80a865a1.gif" 
+  alt="Young boy coding animation" 
+  style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"
+/>
 - 💬 Ask me about *FullStack Web Applications, Mobile Applications*
 - 👩🏻‍💻 Software Engineer sharing some projects
 - 🌱 I’m currently learning Mobile and Web Development
