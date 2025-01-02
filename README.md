@@ -4,10 +4,12 @@
 <h3 align="center">Futur software engineer| Computer science engineering student at ESPRIT</h3>
 </p>
 <img 
-  src="https://cdn.dribbble.com/users/1787323/screenshots/5604820/media/2e05149f4a63bfa6c3787a3f80a865a1.gif" 
-  alt="Young boy coding animation" 
-  style="width: 300px; height: auto; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"
+  align="right" 
+  alt="Boy Developer Coding" 
+  width="400" 
+  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/1dc5c34c0a56efaf6f1b82cf14e8dbf0.gif"
 />
+
 - 💬 Ask me about *FullStack Web Applications, Mobile Applications*
 - 👩🏻‍💻 Software Engineer sharing some projects
 - 🌱 I’m currently learning Mobile and Web Development
